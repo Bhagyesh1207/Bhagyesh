@@ -67,7 +67,7 @@ An award-winning DEI-focused hiring platform that uses LLMs for fair resume scre
 ### 📌 Fleet KPI Scorecard (LLMs, BERTopic, Python)
 Automated KPI extraction from fleet documents using Meta Llama 3 and generated a custom taxonomy with BERTopic for data-driven insights.
 
-### 📌 SnapCal (Flask, Google Inception v2)
+### 📌 SnapCal (Flask, Google Inception v2)(https://github.com/Bhagyesh1207/SnapCal)
 A Flask-based app that recognizes food from images and estimates calories using Inception v2 and nutrition APIs.
 
 ### 📌 RAG-Based Chatbot (AWS Bedrock, Claude v2)
